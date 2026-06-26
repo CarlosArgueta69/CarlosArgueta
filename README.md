@@ -4,15 +4,15 @@ Soy un estudiante de **Desarrollo de Software** entusiasmado por aprender códig
 
 ---
 
-## 🧠 Sobre mí
+##  Sobre mí
 
-* 🎓 **Educación:** Estudiante de la especialidad de Desarrollo de Software en el INU.
-* ⚡ **Intereses:** Apasionado por el desarrollo backend, la lógica de bases de datos y la automatización.
-* 🚗 **Hobby:** Fanático de los autos a escala, la velocidad y los motores grandes. Mi meta definitiva es el **Dodge Challenger SRT Hellcat Redeye Widebody V8 Supercargado**.
+*  **Educación:** Estudiante de la especialidad de Desarrollo de Software en el INU.
+*  **Intereses:** Apasionado por el desarrollo backend, la lógica de bases de datos y la automatización.
+*  **Hobby:** Fanático de los autos a escala, la velocidad y los motores grandes. Mi meta definitiva es el **Dodge Challenger SRT Hellcat Redeye Widebody V8 Supercargado**.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 ### Backend & Bases de Datos
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
