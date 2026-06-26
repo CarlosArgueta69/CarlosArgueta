@@ -24,6 +24,5 @@ Soy un estudiante de **Desarrollo de Software** entusiasmado por aprender códig
 ---
 
 
-
-> 🚀 *"Si haces lo que todo el mundo hace, vas a terminar donde está todo el mundo."*
+>  *"Si haces lo que todo el mundo hace, vas a terminar donde está todo el mundo."*
 > *"LLADOS FITNES"*
